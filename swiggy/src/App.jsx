@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Head from './Components/Head';
-import Body from './Components/body';
+import Body from './Components/Body';
 import Cart from './Components/Cart';
 import Search from './Components/Search';
 import RestaurantMenu from './Components/RestaurantMenu';
