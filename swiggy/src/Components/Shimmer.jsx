@@ -68,7 +68,4 @@ export function MenuShimmer() {
 }
 
 // CSS Keyframe (Add this in your global styles)
-/* @keyframes shimmer {
-    0% { background-position: -200px 0; }
-    100% { background-position: 200px 0; }
-} */
+

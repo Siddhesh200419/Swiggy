@@ -4,7 +4,7 @@ import TopRestaurant from "./TopRestaurant"
 import OnlineFoodDelivery from "./OnlineFoodDelivery"
 import { Coordinates } from "../context/contextApi"
 import { useSelector } from "react-redux"
-import Shimmer from "./shimmer"
+import Shimmer from "./Shimmer";
 import useRestaurantData from "../Hooks/useRestaurantData"
 
 function Body() {
