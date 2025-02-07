@@ -9,7 +9,7 @@ import { clearCart, deleteItem } from '../utils/cartSlice';
 import toast from "react-hot-toast"
 import AddToCartBtn from "./AddToCartBtn"
 import { toggleDiffRes } from "../utils/toggleSlice"
-import { MenuShimmer } from "./shimmer"
+import { MenuShimmer } from "./Shimmer"
 
 function RestaurantMenu() {
   const { id } = useParams()
