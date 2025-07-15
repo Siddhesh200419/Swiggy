@@ -51,12 +51,3 @@ A fully functional Swiggy-like food delivery web application built using **React
 - 🌐 Multi-language & Accessibility support
 
 ---
-
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> ⚠️ Disclaimer: This is an educational clone project inspired by Swiggy's frontend UI/UX. Not affiliated with Swiggy in any way.
